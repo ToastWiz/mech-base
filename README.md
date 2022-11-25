@@ -2,8 +2,17 @@
 
 <p>The project was developed largely as a means of practising full stack web application skills.</p>
 
-<h2>Technology used</h2>
+<h2>Languages used</h2>
 
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Javascript</li>
+  <li>PHP</li>
+</ul>
+
+<h2>Frameworks used</h2>
+ 
+ <ul>
+  <li>Bootstrap</li>
+  <li>JQuery</li>
