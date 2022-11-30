@@ -4,6 +4,7 @@
 
 <p>You can fork this repository and host the site locally via XAMPP. Be sure to enable Apache and MySQL.</p>
 
+<h2>Gallery</h2>
 ![image](https://user-images.githubusercontent.com/48562972/204816667-b6cfec90-7811-458e-9a9b-cce95b1b16fe.png)
 
 
