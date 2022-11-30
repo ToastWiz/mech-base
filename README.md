@@ -16,3 +16,5 @@
  <ul>
   <li>Bootstrap</li>
   <li>JQuery</li>
+  
+ You can fork this repository and host the site locally via XAMPP. Be sure to enable Apache and MySQL.
