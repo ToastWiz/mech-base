@@ -12,6 +12,9 @@
 
 <img src="https://i.imgur.com/B64NyC6.gif"></img>
 
+<img src="https://imgur.com/KIOjfgN"></img>
+
+
 <h2>Languages used</h2>
 
 <ul>
