@@ -2,6 +2,8 @@
 
 <p>The project was developed largely as a means of practising full stack web application skills.</p>
 
+<p>You can fork this repository and host the site locally via XAMPP. Be sure to enable Apache and MySQL.</p>
+
 <h2>Languages used</h2>
 
 <ul>
@@ -17,4 +19,3 @@
   <li>Bootstrap</li>
   <li>JQuery</li>
   
-You can fork this repository and host the site locally via XAMPP. Be sure to enable Apache and MySQL.
