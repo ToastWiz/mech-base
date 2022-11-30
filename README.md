@@ -1,1 +1,18 @@
-# mech-base
+<h1>Mech base is a demonstration of a client-side web application which allows an administrator of an eshop to manage their portfolio of products.</h1>
+
+<p>The project was developed largely as a means of practising full stack web application skills.</p>
+
+<h2>Languages used</h2>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>PHP</li>
+</ul>
+
+<h2>Frameworks used</h2>
+ 
+ <ul>
+  <li>Bootstrap</li>
+  <li>JQuery</li>
