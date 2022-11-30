@@ -12,7 +12,7 @@
 
 <img src="https://i.imgur.com/B64NyC6.gif"></img>
 
-https://i.imgur.com/KIOjfgN.gif
+<img src="https://i.imgur.com/KIOjfgN.gif"></img>
 
 <h2>Languages used</h2>
 
