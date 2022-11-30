@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/48562972/204816667-b6cfec90-7811-458e-9a9b-cce95b1b16fe.png)
 
-<img src="https://i.imgur.com/B64NyC6.gif"</img>
+<img src="https://i.imgur.com/B64NyC6.gif"></img>
 
 <h2>Languages used</h2>
 
